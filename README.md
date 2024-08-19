@@ -11,3 +11,6 @@ SQL_patikadev_3
 
 SQL_patikadev_4
 >> https://academy.patika.dev/tr/courses/sql/Odev4
+
+SQL_patikadev_5
+>> https://academy.patika.dev/tr/courses/sql/Odev5
